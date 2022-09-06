@@ -9,10 +9,6 @@
     "version" : "Latest",
     "type" : "context"
   }, {
-    "id" : "UploadObjectonStorage",
-    "version" : "Latest",
-    "type" : "routine"
-  }, {
     "id" : "UtilCommonProcessFlow",
     "version" : "Latest",
     "type" : "routine"
@@ -39,10 +35,6 @@
     "id" : "_wIgs8IJwEeu0p-M_zS7qlQ",
     "version" : "Latest",
     "type" : "context"
-  }, {
-    "id" : "UploadObjectonStorage",
-    "version" : "Latest",
-    "type" : "routine"
   }, {
     "id" : "UtilCommonProcessFlow",
     "version" : "Latest",
@@ -71,10 +63,6 @@
     "version" : "Latest",
     "type" : "context"
   }, {
-    "id" : "UploadObjectonStorage",
-    "version" : "Latest",
-    "type" : "routine"
-  }, {
     "id" : "UtilCommonProcessFlow",
     "version" : "Latest",
     "type" : "routine"
@@ -101,10 +89,6 @@
     "id" : "_wIgs8IJwEeu0p-M_zS7qlQ",
     "version" : "Latest",
     "type" : "context"
-  }, {
-    "id" : "UploadObjectonStorage",
-    "version" : "Latest",
-    "type" : "routine"
   }, {
     "id" : "UtilCommonProcessFlow",
     "version" : "Latest",
@@ -133,10 +117,6 @@
     "version" : "Latest",
     "type" : "context"
   }, {
-    "id" : "UploadObjectonStorage",
-    "version" : "Latest",
-    "type" : "routine"
-  }, {
     "id" : "UtilCommonProcessFlow",
     "version" : "Latest",
     "type" : "routine"
@@ -163,10 +143,6 @@
     "id" : "_wIgs8IJwEeu0p-M_zS7qlQ",
     "version" : "Latest",
     "type" : "context"
-  }, {
-    "id" : "UploadObjectonStorage",
-    "version" : "Latest",
-    "type" : "routine"
   }, {
     "id" : "UtilCommonProcessFlow",
     "version" : "Latest",
@@ -195,10 +171,6 @@
     "version" : "Latest",
     "type" : "context"
   }, {
-    "id" : "UploadObjectonStorage",
-    "version" : "Latest",
-    "type" : "routine"
-  }, {
     "id" : "UtilCommonProcessFlow",
     "version" : "Latest",
     "type" : "routine"
@@ -225,10 +197,6 @@
     "id" : "_wIgs8IJwEeu0p-M_zS7qlQ",
     "version" : "Latest",
     "type" : "context"
-  }, {
-    "id" : "UploadObjectonStorage",
-    "version" : "Latest",
-    "type" : "routine"
   }, {
     "id" : "UtilCommonProcessFlow",
     "version" : "Latest",
@@ -320,10 +288,6 @@
     "version" : "Latest",
     "type" : "context"
   }, {
-    "id" : "UploadObjectonStorage",
-    "version" : "Latest",
-    "type" : "routine"
-  }, {
     "id" : "UtilCommonProcessFlow",
     "version" : "Latest",
     "type" : "routine"
@@ -350,10 +314,6 @@
     "id" : "_wIgs8IJwEeu0p-M_zS7qlQ",
     "version" : "Latest",
     "type" : "context"
-  }, {
-    "id" : "UploadObjectonStorage",
-    "version" : "Latest",
-    "type" : "routine"
   }, {
     "id" : "UtilCommonProcessFlow",
     "version" : "Latest",
